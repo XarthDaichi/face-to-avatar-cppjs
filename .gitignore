@@ -1,0 +1,45 @@
+# Ignoring face-api.js
+/lib/face-api.js
+
+# Ignoring node_modules (folder created from npm i, to run examples-browser)
+/node_modules
+
+# Ignoring CMake directories
+/lib/*
+.idea/
+/cmake-build-debug
+/sample
+*.DS_Store
+
+# Ignoring executables
+*.exe
+*.out
+*.app
+
+# Ignoring prerequisites
+*.d
+
+# Ignoring Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Ignoring Precompiled Headers
+*.gch
+*.pch
+
+# Ignoring Compiled Dynamic Libraries
+*.so
+*.dylib
+*.dll
+
+# Ignoring Fortran module files
+*.mod
+*.smod
+
+# Ignoring Compiled Static Libraries
+*.lai
+*.la
+*.a
+*.lib
